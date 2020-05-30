@@ -1,0 +1,9 @@
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\bin\Debug\caculator.exe.config
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\bin\Debug\caculator.exe
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\bin\Debug\caculator.pdb
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\obj\Debug\caculator.csprojAssemblyReference.cache
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\obj\Debug\caculator.Form1.resources
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\obj\Debug\caculator.Properties.Resources.resources
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\obj\Debug\caculator.csproj.GenerateResource.cache
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\obj\Debug\caculator.exe
+F:\学习文件\WHU\大二下\软件构造基础\homework1\cacu1\caculator\caculator\obj\Debug\caculator.pdb
