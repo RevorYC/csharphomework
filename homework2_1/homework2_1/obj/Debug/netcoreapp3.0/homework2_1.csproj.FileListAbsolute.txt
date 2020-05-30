@@ -1,0 +1,11 @@
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\bin\Debug\netcoreapp3.0\homework2_1.exe
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\bin\Debug\netcoreapp3.0\homework2_1.deps.json
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\bin\Debug\netcoreapp3.0\homework2_1.runtimeconfig.json
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\bin\Debug\netcoreapp3.0\homework2_1.runtimeconfig.dev.json
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\bin\Debug\netcoreapp3.0\homework2_1.dll
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\bin\Debug\netcoreapp3.0\homework2_1.pdb
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\obj\Debug\netcoreapp3.0\homework2_1.csprojAssemblyReference.cache
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\obj\Debug\netcoreapp3.0\homework2_1.AssemblyInfoInputs.cache
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\obj\Debug\netcoreapp3.0\homework2_1.AssemblyInfo.cs
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\obj\Debug\netcoreapp3.0\homework2_1.dll
+F:\学习文件\WHU\大二下\软件构造基础\课后作业\homework2_1\homework2_1\obj\Debug\netcoreapp3.0\homework2_1.pdb
